@@ -4,7 +4,7 @@
 
 0.  描述
 
-      -  [崛起力量: 测试英雄 试玩版]([https://store.steampowered.com/app/2445990/Bloomtown_A_Different_Story/](https://store.steampowered.com/app/2951840/_/)) 修改器源代码
+      -  [崛起力量: 测试英雄 试玩版](https://store.steampowered.com/app/2951840/_/) 修改器源代码
 
 1.  要求
 
